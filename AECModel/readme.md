@@ -1,10 +1,10 @@
 ## AECModel
 显示模型数据到网页端资料
 
-three.js
+three.js(底层平台)
 https://github.com/mrdoob/three.js
 
-vA3C
+vA3C(主要是对Revit的支持)
 http://va3c.github.io/
 
 The open source BIM collective（IFC格式）
